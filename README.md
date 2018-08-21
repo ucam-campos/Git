@@ -13,8 +13,6 @@ Texto em **negrito**
 
 Texto em *itálico*
 
-[link para Google!](http://google.com)
-
 Lista Numerada
 
 1. Um
@@ -26,13 +24,11 @@ Lista com Pontos:
 * Um
 * Dois
 
-Incorporar imagens.
-
-![Imagem do Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 Links:
 
 [GitHub](http://github.com)
+
+[Link para Google!](http://google.com)
 
 Citação em bloco:
 
@@ -44,6 +40,8 @@ Código embutido:
 Eu acho que você deveria usar um
 `<addr>` aqui, ao invés disso.
 
+#### Bloco de código
+
 Realce da Sintaxe:
 
 ```javascript
@@ -53,14 +51,6 @@ function fancyAlert(arg) {
   }
 }
 ```
-
-Lista de tarefas:
-
-- [x] Lista de Sintaxe requerida (qualquer lista não ordenada ou ordenada suportada)
-- [x] Esse item esta completo 
-- [ ] Esse item esta incompleto
-
-#### Bloco de código
 
 ###### É possível definir a linguagem.
 
@@ -82,4 +72,12 @@ Lista de Tarefas:
 Quando você inclui uma lista de tarefa no primeiro comentário de uma Issue, você irá
 ver uma barra de progresso de ajuda na sua lista de Issues. Isso também funciona em PR!
 
-E, claro, emogi! :sparkles: - (brilho) :camel: - (camelo) :boom: - (explosão)
+emogi! :sparkles: - (brilho) :camel: - (camelo) :boom: - (explosão)
+
+Incorporar Imagem.
+
+![Imagem do Yaktocat](http://simonsen.br/secretariaonline/impressaoboleto/img/ucam.png)
+
+Imagem Redimensionada.
+
+<img src="http://simonsen.br/secretariaonline/impressaoboleto/img/ucam.png" height="100" width="100">
