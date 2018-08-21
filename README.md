@@ -73,3 +73,13 @@ alert(s);
 s = "Código em python"
 print s
 ```   
+Se quiser marcar alguém, você pode criar um link desssa forma @nomeusuario
+
+Lista de Tarefas:
+- [x] Este é um item completo
+- [ ] Este é um item incompleto
+
+Quando você inclui uma lista de tarefa no primeiro comentário de uma Issue, você irá
+ver uma barra de progresso de ajuda na sua lista de Issues. Isso também funciona em PR!
+
+E, claro, emogi! :sparkles: - (brilho) :camel: - (camelo) :boom: - (explosão)
