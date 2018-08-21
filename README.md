@@ -25,3 +25,21 @@ Lista com Pontos:
 
 * Um
 * Dois
+
+Incorporar imagens.
+
+[Imagem do Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+
+Links:
+
+[GitHub](http://github.com)
+
+Citação em bloco:
+
+> Ucam-campos
+> Teste de citação em bloco
+
+Código embutido:
+
+Eu acho que você deveria usar um
+`<addr>` aqui, ao invés disso.
