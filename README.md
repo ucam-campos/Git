@@ -44,18 +44,28 @@ Código embutido:
 Eu acho que você deveria usar um
 `<addr>` aqui, ao invés disso.
 
-Bloco de código
-
-###### É possível definir a linguagem.
-
+Realce da Sintaxe:
 
 ```javascript
-var s = "Código em javascript";
-alert(s);
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
- 
-```python
-s = "Código em python"
-print s
-```
- 
+
+Ou
+
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+Lista de tarefas:
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] Lista de Sintax requerida (qualquer lista não ordenada ou ordenada suportada)
+- [x] esse item esta completolist 
+- [ ] Esse item esta incompleto
+    
