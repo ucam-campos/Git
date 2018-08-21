@@ -54,14 +54,6 @@ function fancyAlert(arg) {
 }
 ```
 
-Ou
-
-function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-
 Lista de tarefas:
 
 - [x] Lista de Sintaxe requerida (qualquer lista não ordenada ou ordenada suportada)
