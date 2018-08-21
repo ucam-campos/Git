@@ -43,3 +43,19 @@ Código embutido:
 
 Eu acho que você deveria usar um
 `<addr>` aqui, ao invés disso.
+
+Bloco de código
+
+###### É possível definir a linguagem.
+
+
+```javascript
+var s = "Código em javascript";
+alert(s);
+```
+ 
+```python
+s = "Código em python"
+print s
+```
+ 
