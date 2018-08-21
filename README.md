@@ -28,7 +28,8 @@ Lista com Pontos:
 
 Incorporar imagens.
 
-:![Imagem do Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+:! [Imagem do Yaktocat]
+(https://octodex.github.com/images/yaktocat.png)
 
 Links:
 
